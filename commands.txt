@@ -1,0 +1,13 @@
+loadmap mapname
+validatemap
+addplayer player1
+addplayer player2
+gamestart
+replay
+loadmap <mapname2>
+incorrect command for testing!!
+validatemap
+addplayer player3
+addplayer player4
+gamestart
+quit

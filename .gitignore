@@ -1,0 +1,13 @@
+.vscode
+.DS_Store
+bin
+.vs
+*.vcxproj
+*.filters
+*.user
+x64/*
+COMP345/
+Debug/
+x64/Debug/*
+*.dSYM/
+*.sln
